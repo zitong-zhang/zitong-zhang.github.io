@@ -2,14 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: 授课经历 / Teaching Experience
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## 研究生课程 / Graduate Courses
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+| 课程 / Course | 院校 / Institution |
+|---|---|
+| 高级新结构经济学（上、下） / Advanced New Structural Economics | 北京大学 / Peking University |
+| 智库实践课程 / Think Tank Practicum | 北京大学 / Peking University |
+| 数理经济学 / Mathematical Economics | 北京大学 / Peking University |
 
-{% include courses.liquid %}
+## 本科生课程 / Undergraduate Courses
+
+| 课程 / Course | 院校 / Institution |
+|---|---|
+| 智库实践课程 / Think Tank Practicum | 北京大学 / Peking University |

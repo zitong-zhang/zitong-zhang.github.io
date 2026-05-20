@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: 研究项目与智库课题 / Research Projects and Policy Studies
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [英文论文 / English Papers, 中文论文 / Chinese Papers, 智库课题 / Policy Studies]
 horizontal: false
 ---
 
