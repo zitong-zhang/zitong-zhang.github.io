@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-<div class="lang-zh" style="display:">
+<div class="lang-zh" markdown="1" style="display:">
 
 ## 张梓桐
 
@@ -45,7 +45,7 @@ latest_posts:
 
 </div>
 
-<div class="lang-en" style="display:none">
+<div class="lang-en" markdown="1" style="display:none">
 
 ## Zitong Zhang
 

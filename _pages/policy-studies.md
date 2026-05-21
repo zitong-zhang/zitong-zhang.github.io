@@ -7,7 +7,7 @@ nav_order: 4
 description: 智库课题
 ---
 
-<div class="lang-zh" style="display:">
+<div class="lang-zh" markdown="1" style="display:">
 
 ## 政策报告
 
@@ -40,7 +40,7 @@ description: 智库课题
 
 </div>
 
-<div class="lang-en" style="display:none">
+<div class="lang-en" markdown="1" style="display:none">
 
 ## Policy Reports
 

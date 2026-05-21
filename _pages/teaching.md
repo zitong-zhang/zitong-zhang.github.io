@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<div class="lang-zh" style="display:">
+<div class="lang-zh" markdown="1" style="display:">
 
 ## 研究生课程
 
@@ -25,7 +25,7 @@ nav_order: 6
 
 </div>
 
-<div class="lang-en" style="display:none">
+<div class="lang-en" markdown="1" style="display:none">
 
 ## Graduate Courses
 
