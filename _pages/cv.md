@@ -1,12 +1,12 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV / 简历
+title: CV
 nav: true
-nav_order: 5
+nav_order: 7
 cv_pdf:
 cv_format: rendercv
-description: 张梓桐的学术简历 / Academic CV of Zitong Zhang
+description: 张梓桐的学术简历
 toc:
   sidebar: left
 ---

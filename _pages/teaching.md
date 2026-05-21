@@ -2,21 +2,43 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 授课经历 / Teaching Experience
+description: 授课经历
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
-## 研究生课程 / Graduate Courses
+<div class="lang-zh" style="display:">
 
-| 课程 / Course | 院校 / Institution |
+## 研究生课程
+
+| 课程 | 院校 |
 |---|---|
-| 高级新结构经济学（上、下） / Advanced New Structural Economics | 北京大学 / Peking University |
-| 智库实践课程 / Think Tank Practicum | 北京大学 / Peking University |
-| 数理经济学 / Mathematical Economics | 北京大学 / Peking University |
+| 高级新结构经济学（上、下） | 北京大学 |
+| 智库实践课程 | 北京大学 |
+| 数理经济学 | 北京大学 |
 
-## 本科生课程 / Undergraduate Courses
+## 本科生课程
 
-| 课程 / Course | 院校 / Institution |
+| 课程 | 院校 |
 |---|---|
-| 智库实践课程 / Think Tank Practicum | 北京大学 / Peking University |
+| 智库实践课程 | 北京大学 |
+
+</div>
+
+<div class="lang-en" style="display:none">
+
+## Graduate Courses
+
+| Course | Institution |
+|---|---|
+| Advanced New Structural Economics | Peking University |
+| Think Tank Practicum | Peking University |
+| Mathematical Economics | Peking University |
+
+## Undergraduate Courses
+
+| Course | Institution |
+|---|---|
+| Think Tank Practicum | Peking University |
+
+</div>
